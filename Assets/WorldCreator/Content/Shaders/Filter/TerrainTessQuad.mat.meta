@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7973d583a18c974d80009a72145469f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/TerrainTessQuad.mat
+  uploadId: 450365

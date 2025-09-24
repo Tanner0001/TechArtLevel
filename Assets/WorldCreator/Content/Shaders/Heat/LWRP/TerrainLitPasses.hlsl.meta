@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25a45172b69ca214d82571ba89019725
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/LWRP/TerrainLitPasses.hlsl
+  uploadId: 450365

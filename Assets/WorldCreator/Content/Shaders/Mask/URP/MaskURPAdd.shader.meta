@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 365dd44ae3423344f911de8e980a3f8d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/URP/MaskURPAdd.shader
+  uploadId: 450365

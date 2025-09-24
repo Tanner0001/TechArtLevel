@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d57652bdf087f34e8a8b06571d1770f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/LWRP/TerrainLitInput.hlsl
+  uploadId: 450365

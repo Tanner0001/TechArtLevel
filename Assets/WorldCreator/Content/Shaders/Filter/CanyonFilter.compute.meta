@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0cef0403c3b76ff4a9863955482da40b
+timeCreated: 1452092505
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/CanyonFilter.compute
+  uploadId: 450365

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca87e1e5d39fc7f43877af1840f9cf89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/TerrainTessQuadHeat.mat
+  uploadId: 450365

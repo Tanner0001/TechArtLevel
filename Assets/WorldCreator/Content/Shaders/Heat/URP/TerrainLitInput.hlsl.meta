@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a34184708a78984fbae9608b23b719b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/URP/TerrainLitInput.hlsl
+  uploadId: 450365

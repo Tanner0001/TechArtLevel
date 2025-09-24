@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9635096f2b1451a47ba1b78f1d47733a
+timeCreated: 1460971179
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/HeatMap.mat
+  uploadId: 450365

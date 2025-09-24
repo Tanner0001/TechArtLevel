@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d4fae89b6510ec4fa20e933c011425d
+timeCreated: 1465214032
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/TerrainTess.mat
+  uploadId: 450365

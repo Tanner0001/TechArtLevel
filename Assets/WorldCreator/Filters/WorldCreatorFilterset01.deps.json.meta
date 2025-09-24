@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2c72c5da5e371149a545143c096493c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Filters/WorldCreatorFilterset01.deps.json
+  uploadId: 450365

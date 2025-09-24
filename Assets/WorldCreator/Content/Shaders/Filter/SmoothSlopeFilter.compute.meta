@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 46fcbe3deee3bab46b44e5c263a8771a
+timeCreated: 1446211224
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/SmoothSlopeFilter.compute
+  uploadId: 450365

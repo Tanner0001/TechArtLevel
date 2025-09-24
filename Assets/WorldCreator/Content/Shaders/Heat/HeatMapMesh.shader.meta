@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 08a11e86ecc4f144d854bf09a2532f72
+timeCreated: 1461070151
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/HeatMapMesh.shader
+  uploadId: 450365

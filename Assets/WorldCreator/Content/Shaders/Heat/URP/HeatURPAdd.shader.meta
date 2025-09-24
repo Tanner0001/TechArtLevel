@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59dce49b16364904e9fbb9c364abba99
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/URP/HeatURPAdd.shader
+  uploadId: 450365

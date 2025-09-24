@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4a92cc8854b827543af3dd87be8c0d4b
+timeCreated: 1446213912
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/StraightHillsFilter.compute
+  uploadId: 450365

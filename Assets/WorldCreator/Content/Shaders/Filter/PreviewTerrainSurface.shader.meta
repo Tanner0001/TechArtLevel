@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55cf19ce86eddb84dad15de400307f02
+timeCreated: 1446562870
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/PreviewTerrainSurface.shader
+  uploadId: 450365

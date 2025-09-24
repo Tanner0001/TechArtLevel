@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 021cdbc2bf153104bb55e4e653ef7d5a
+timeCreated: 1460051871
+licenseType: Store
+ComputeShaderImporter:
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/ErosionWithSedimentation.compute
+  uploadId: 450365

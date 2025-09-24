@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 914d5de234fa77c4da3e1ad009a6593c
+timeCreated: 1446109706
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/BitmapMask.compute
+  uploadId: 450365

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23e1916fef400644bb3dd3becf6bd6e0
+timeCreated: 1448897334
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Terrain/Gradient/Standard-FirstPass.shader
+  uploadId: 450365

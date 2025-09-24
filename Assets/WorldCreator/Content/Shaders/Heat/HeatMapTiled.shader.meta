@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d47bc1cdec756145b00ebf616312d8b
+timeCreated: 1470408748
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/HeatMapTiled.shader
+  uploadId: 450365

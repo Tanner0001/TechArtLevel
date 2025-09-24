@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 301f818f95801ee4d8fb4b7b35a5331a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/HDRP/TerrainLit_Basemap.shader
+  uploadId: 450365

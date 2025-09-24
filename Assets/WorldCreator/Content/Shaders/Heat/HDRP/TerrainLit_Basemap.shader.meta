@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c28e94fa1af35f458c343a3f6da2d3b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/HDRP/TerrainLit_Basemap.shader
+  uploadId: 450365

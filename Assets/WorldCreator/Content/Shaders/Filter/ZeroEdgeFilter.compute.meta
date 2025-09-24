@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb5efe6bcb68f0049b8eccb1a70472c7
+timeCreated: 1446218884
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/ZeroEdgeFilter.compute
+  uploadId: 450365

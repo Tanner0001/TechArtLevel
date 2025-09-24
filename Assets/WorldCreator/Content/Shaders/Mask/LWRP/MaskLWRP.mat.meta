@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 699489e35cb69a14cb2447dadf3d5955
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/LWRP/MaskLWRP.mat
+  uploadId: 450365

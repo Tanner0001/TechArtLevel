@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c39b18efb78559c47b8a65a1811e8476
+timeCreated: 1461059888
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Terrain/Heat/HeatMapVisualizer.mat
+  uploadId: 450365

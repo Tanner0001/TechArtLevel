@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e30f43e8893fde54fb5715cdb15b057b
+timeCreated: 1457450008
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/SimpleTess.shader
+  uploadId: 450365

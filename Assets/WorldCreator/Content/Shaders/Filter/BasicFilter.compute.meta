@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ae1d29ae7fb5839439553a8722af8d93
+timeCreated: 1446109707
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/BasicFilter.compute
+  uploadId: 450365

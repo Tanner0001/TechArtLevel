@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6697c8510390671489011e71ca63675b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/LWRP/HeatLWRPBase.shader
+  uploadId: 450365

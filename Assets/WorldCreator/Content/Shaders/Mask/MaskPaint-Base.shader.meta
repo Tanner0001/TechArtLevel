@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1269bd078837efe4c96418cc91fa9f7b
+timeCreated: 1463726438
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/MaskPaint-Base.shader
+  uploadId: 450365

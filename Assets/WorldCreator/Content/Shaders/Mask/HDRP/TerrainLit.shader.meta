@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a28384af3e0cce4aa84a27062938177
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/HDRP/TerrainLit.shader
+  uploadId: 450365

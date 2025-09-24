@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e96a6cc371c5bbe4b85c9a7eea8052b1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/URP/TerrainLitMetaPass.hlsl
+  uploadId: 450365

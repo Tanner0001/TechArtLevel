@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 499b441c177942042b3a0348dd480c11
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Engine/WorldCreatorEngine.deps.json
+  uploadId: 450365

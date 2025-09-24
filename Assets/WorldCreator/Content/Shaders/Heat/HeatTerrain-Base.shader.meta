@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0481e816a3b43444bae590ac18728964
+timeCreated: 1461071934
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/HeatTerrain-Base.shader
+  uploadId: 450365

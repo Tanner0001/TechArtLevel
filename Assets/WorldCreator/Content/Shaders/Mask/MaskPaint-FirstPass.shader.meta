@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 62fe75590c43fb845a721f2ab0ecacb1
+timeCreated: 1463726441
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/MaskPaint-FirstPass.shader
+  uploadId: 450365

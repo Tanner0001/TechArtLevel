@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26f1f07f7e4891248ba719a4bfa9ba6f
+timeCreated: 1446109705
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/RockyHillsFilter.compute
+  uploadId: 450365

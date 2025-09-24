@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 77a044a4ed587884089f976d4e32f34a
+timeCreated: 1446203654
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/TerraceFilter.compute
+  uploadId: 450365

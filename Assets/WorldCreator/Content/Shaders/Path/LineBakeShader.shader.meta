@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: faf1507fc9435f445a7cb633ade203d8
+timeCreated: 1468007178
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Path/LineBakeShader.shader
+  uploadId: 450365

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68c7426694724cb49b21e1a17f2b2524
+timeCreated: 1461060442
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Heat/HeatMapTerrain.mat
+  uploadId: 450365

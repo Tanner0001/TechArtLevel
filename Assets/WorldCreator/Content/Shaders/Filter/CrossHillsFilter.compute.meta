@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab7d1ecdd8596a441b8b7e39d83719ae
+timeCreated: 1446109707
+licenseType: Store
+ComputeShaderImporter:
+  currentBuildTarget: 5
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Filter/CrossHillsFilter.compute
+  uploadId: 450365

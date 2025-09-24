@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 573dec83e8d219947ba6cfb2180df89e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/HDRP/TerrainLit_Splatmap.hlsl
+  uploadId: 450365

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3733b40adab39264c8ad47b49f204552
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/TerrainTessQuadMask.shader
+  uploadId: 450365

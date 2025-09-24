@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ffd374b8c67528849805aa408eb66c43
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55073
+  packageName: World Creator Professional
+  packageVersion: 2.7.1
+  assetPath: Assets/WorldCreator/Content/Shaders/Mask/LWRP/MaskLWRPBase.shader
+  uploadId: 450365
