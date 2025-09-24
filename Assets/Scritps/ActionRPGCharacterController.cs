@@ -256,7 +256,7 @@ public class ActionRPGCharacterController : MonoBehaviour
 
     private void UpdateDrag(bool grounded)
     {
-        body.drag = grounded ? groundedDrag : airborneDrag;
+        body.linearDamping = grounded ? groundedDrag : airborneDrag;
     }
 
     private bool CheckGrounded()
@@ -343,7 +343,7 @@ public class ActionRPGCharacterController : MonoBehaviour
 
         Debug.Log(
             $"{DebugPrefix} Frame {Time.frameCount} | Grounded: {lastGroundedState} | Move Input: {moveInput} | Sprinting: {isSprinting} | " +
-            $"Desired Direction: {desiredInfo} | Horizontal Velocity: {lastHorizontalVelocity} | Body Velocity: {lastBodyVelocity} | Drag: {body.drag} | " +
+            $"Desired Direction: {desiredInfo} | Horizontal Velocity: {lastHorizontalVelocity} | Body Velocity: {lastBodyVelocity} | Drag: {body.linearDamping} | " +
             $"Jump Attempted: {lastJumpAttempted} | Jump Performed: {lastJumpPerformed} | Ground Check Pos: {lastGroundCheckPosition} (r={lastGroundCheckRadius})",
             this);
     }
