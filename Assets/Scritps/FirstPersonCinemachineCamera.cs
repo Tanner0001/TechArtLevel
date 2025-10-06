@@ -1,25 +1,23 @@
+using Cinemachine;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 /// <summary>
-/// Responsive third person follow camera that reads look input from Unity's Input System
-/// and keeps a cinematic offset behind the target.
+/// First person camera controller that drives a Cinemachine 3 camera using the Input System.
+/// Keeps the camera anchored to the follow target while handling look input and cursor locking.
 /// </summary>
+[RequireComponent(typeof(CinemachineCamera))]
 [DefaultExecutionOrder(100)]
-public class ThirdPersonFollowCamera : MonoBehaviour
+public class FirstPersonCinemachineCamera : MonoBehaviour
 {
     [Header("Target")]
     [SerializeField] private Transform followTarget;
-    [SerializeField] private Vector3 targetOffset = new Vector3(0f, 1.6f, 0f);
-
-    [Header("Camera Placement")]
-    [SerializeField] private Vector3 cameraOffset = new Vector3(0f, 3.5f, -6f);
-    [SerializeField, Min(0f)] private float followSmoothing = 12f;
+    [SerializeField] private Vector3 targetOffset = new Vector3(0f, 1.7f, 0f);
 
     [Header("Look Settings")]
     [SerializeField, Min(0f)] private float lookSensitivity = 120f;
-    [SerializeField] private float minPitch = -40f;
-    [SerializeField] private float maxPitch = 75f;
+    [SerializeField] private float minPitch = -85f;
+    [SerializeField] private float maxPitch = 85f;
     [SerializeField] private bool lockCursor = true;
 
     [Header("Input")]
@@ -33,7 +31,7 @@ public class ThirdPersonFollowCamera : MonoBehaviour
 
     private void Awake()
     {
-        if (followTarget == null)
+        if (followTarget == null && transform.parent != null)
         {
             followTarget = transform.parent;
         }
@@ -81,16 +79,15 @@ public class ThirdPersonFollowCamera : MonoBehaviour
         pitch -= lookDelta.y * lookSensitivity * Time.deltaTime;
         pitch = Mathf.Clamp(pitch, minPitch, maxPitch);
 
-        Quaternion orbitRotation = Quaternion.Euler(pitch, yaw, 0f);
-        Vector3 desiredPosition = followTarget.position + targetOffset + orbitRotation * cameraOffset;
-        float lerpFactor = 1f - Mathf.Exp(-followSmoothing * Time.deltaTime);
-        transform.position = Vector3.Lerp(transform.position, desiredPosition, lerpFactor);
+        Vector3 anchorPosition = followTarget.position + targetOffset;
+        Quaternion orientation = Quaternion.Euler(pitch, yaw, 0f);
 
-        Vector3 lookTarget = followTarget.position + targetOffset;
-        Quaternion lookRotation = Quaternion.LookRotation(lookTarget - transform.position, Vector3.up);
-        transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, lerpFactor);
+        transform.SetPositionAndRotation(anchorPosition, orientation);
     }
 
+    /// <summary>
+    /// Allows swapping to a new follow target at runtime and realigning the camera orientation.
+    /// </summary>
     public void SetFollowTarget(Transform target)
     {
         followTarget = target;
